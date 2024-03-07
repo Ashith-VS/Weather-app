@@ -1,0 +1,18 @@
+ .container{
+    max-width: 1400px;
+    margin: 20px auto;
+}
+.custom-div{
+    padding-bottom:  60vh;
+    background-color: #EAECEF;
+    border-radius: 5px;
+} 
+.mainimg{
+    width: 150px;
+}
+.img{
+    width: 70px;
+}
+.images{
+width: 50px;
+}
